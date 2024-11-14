@@ -26,4 +26,8 @@
       color: #fff;
       font-size: 22px;
       text-align: center;
+      
     }
+    .typed-cursor {
+  font-size: 58px; /* Set the size you want for the caret */
+}
